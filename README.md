@@ -70,3 +70,7 @@ possible to find and extract the true `p_factor` values for these test
 subjects, we encourage you not to do so, or at least not to do so until after
 you have generated predictions. (We will provide the `p_factor` data to you
 when the projects are completed).
+
+### Purpose of this individual branch
+
+Tong Le will work on eyeballing the data, looking at colinearity and identifying potential features to input to the model.
